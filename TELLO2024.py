@@ -13,4 +13,4 @@ image = tello.get_frame_read().frame   # Get first frame
 # ------------------------------------ HSV bounds
 
 LOWER = np.array((88, 166, 51))
-UPPER = np.array((179, 255, 255))
+UPPER = np.array((179, 255, 255))jakh o
